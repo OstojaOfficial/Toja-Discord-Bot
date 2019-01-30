@@ -38,7 +38,7 @@ namespace TojaBot
             Client.UserJoined += Client_UserJoined;
             Client.UserLeft += Client_UserLeft;
 
-            string Token = "<BOT TOKEN>"; //Change this line! "Your Bot Token"
+            string Token = "NTI2Mzc3NDczNzA1NzcxMDA4.Dwjw5w.QVRSN-8_X0j0S5PUtqWNXX9r-vU";
             await Client.LoginAsync(TokenType.Bot, Token);
             await Client.StartAsync();
 
@@ -48,7 +48,7 @@ namespace TojaBot
 
         private async Task Client_UserLeft(SocketGuildUser user)
         {
-            var channel = Client.GetChannel(1234) as SocketTextChannel; //Change this line! "Channel ID"
+            var channel = Client.GetChannel(526337235340099606) as SocketTextChannel;
 
             EmbedBuilder Embed = new EmbedBuilder();
             Embed.WithAuthor("Member Left");
@@ -60,17 +60,17 @@ namespace TojaBot
 
         private async Task Client_UserJoined(SocketGuildUser user)
         {
-            var channel = Client.GetChannel(1245) as SocketTextChannel; //Change this line! "Channel ID"
+            var channel = Client.GetChannel(526337235340099606) as SocketTextChannel;
 
             EmbedBuilder Embed = new EmbedBuilder();
             Embed.WithAuthor("Member Joined");
             Embed.WithColor(0, 0, 255);
-            Embed.WithDescription($"Welcome {user.Mention} to {channel.Guild.Name}");
+            Embed.WithDescription($"Dobrodosao {user.Mention} kod {channel.Guild.Name}");
 
             await channel.SendMessageAsync("", false, Embed.Build());
 
             //Assign role
-            ulong roleID = 1234; //Change this line! "MEMBER ROLE ID"
+            ulong roleID = 526362893382320138;
             var role = user.Guild.GetRole(roleID);
             await user.AddRoleAsync(role);
         }

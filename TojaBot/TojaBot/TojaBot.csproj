@@ -3,6 +3,15 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Company>Abra-Technologies</Company>
+    <Authors>Ostoja Sredojevic</Authors>
+    <NeutralLanguage>en</NeutralLanguage>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
+    <Description>Discord bot made by Ostoja Sredojevic written in Discord.NET library.</Description>
+    <PackageTags>Discord Bot Discord.NET .NET</PackageTags>
+    <PackageLicenseUrl>https://github.com/OstojaTheGamer/Toja-Discord-Bot/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/OstojaTheGamer/Toja-Discord-Bot</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

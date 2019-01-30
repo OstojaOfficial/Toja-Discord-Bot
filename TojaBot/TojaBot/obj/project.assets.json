@@ -1928,7 +1928,7 @@
       ]
     },
     "Microsoft.Extensions.DependencyInjection/1.1.1": {
-      "sha512": "wOwaT87B2huuaVI8ulLeginMG+YCuBctRVh+belqK0qVhw5A6E5BkJGiZ/40i3gbh3RhnUy2Hgd4k50j1LqZYQ==",
+      "sha512": "HPromF7+ssYXilQndxMbuPfn2w9C9mP2owmNC48/bgts/TWBMlvnUYsvOvTC8Ojn0DuiDDGmHNqOtxwwvFSpAA==",
       "type": "package",
       "path": "microsoft.extensions.dependencyinjection/1.1.1",
       "files": [
@@ -1941,7 +1941,7 @@
       ]
     },
     "Microsoft.Extensions.DependencyInjection.Abstractions/1.1.1": {
-      "sha512": "vMttQdgumUaoN2ybBYwBSecqmBlYep7R2uIz/eXeAexHuKWrb4w6SqfzSJyD5F62frbA0hCf76AbqO/rk+ALfA==",
+      "sha512": "sKsx2jEkabcI954cB6MoU2LUxv8YTByV8+ifqbFtIF8gFqPb4/CfPxwvxrYW+aXc4V44KKHOyeTDgyc4B7fjYg==",
       "type": "package",
       "path": "microsoft.extensions.dependencyinjection.abstractions/1.1.1",
       "files": [
@@ -3473,7 +3473,7 @@
       ]
     },
     "System.Interactive.Async/3.1.1": {
-      "sha512": "x9y2omkjEudKbIVuhUzeWw7ZlouEzpk4W98woCEq1lq9gJxERBKRKDTHF5JPEws9E0f4/Uei/2vLxEy1IrfmMg==",
+      "sha512": "hZccYiIE5RS1/J9Tb/BNtosAGVggdlsJm4Ojdu+gDV0p4AIi+LUfUogMKkRacljQEJd2AG6vYzvcjhQFkqoZmw==",
       "type": "package",
       "path": "system.interactive.async/3.1.1",
       "files": [
@@ -6076,23 +6076,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ostoja\\.nuget\\packages\\": {},
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ostoja\\Desktop\\TojaBot\\TojaBot\\TojaBot.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\TojaBot\\TojaBot\\TojaBot.csproj",
       "projectName": "TojaBot",
-      "projectPath": "C:\\Users\\Ostoja\\Desktop\\TojaBot\\TojaBot\\TojaBot.csproj",
-      "packagesPath": "C:\\Users\\Ostoja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ostoja\\Desktop\\TojaBot\\TojaBot\\obj\\",
+      "projectPath": "C:\\Users\\Administrator\\source\\repos\\TojaBot\\TojaBot\\TojaBot.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\source\\repos\\TojaBot\\TojaBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ostoja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -9,14 +9,3 @@ C:\Users\Administrator\source\repos\TojaBot\TojaBot\bin\Debug\netcoreapp2.1\Toja
 C:\Users\Administrator\source\repos\TojaBot\TojaBot\obj\Debug\netcoreapp2.1\TojaBot.dll
 C:\Users\Administrator\source\repos\TojaBot\TojaBot\obj\Debug\netcoreapp2.1\TojaBot.pdb
 C:\Users\Administrator\source\repos\TojaBot\TojaBot\obj\Debug\netcoreapp2.1\TojaBot.csprojAssemblyReference.cache
-C:\Users\Ostoja\Desktop\TojaBot\TojaBot\obj\Debug\netcoreapp2.1\TojaBot.csprojAssemblyReference.cache
-C:\Users\Ostoja\Desktop\TojaBot\TojaBot\obj\Debug\netcoreapp2.1\TojaBot.csproj.CoreCompileInputs.cache
-C:\Users\Ostoja\Desktop\TojaBot\TojaBot\obj\Debug\netcoreapp2.1\TojaBot.AssemblyInfoInputs.cache
-C:\Users\Ostoja\Desktop\TojaBot\TojaBot\obj\Debug\netcoreapp2.1\TojaBot.AssemblyInfo.cs
-C:\Users\Ostoja\Desktop\TojaBot\TojaBot\obj\Debug\netcoreapp2.1\TojaBot.dll
-C:\Users\Ostoja\Desktop\TojaBot\TojaBot\obj\Debug\netcoreapp2.1\TojaBot.pdb
-C:\Users\Ostoja\Desktop\TojaBot\TojaBot\bin\Debug\netcoreapp2.1\TojaBot.deps.json
-C:\Users\Ostoja\Desktop\TojaBot\TojaBot\bin\Debug\netcoreapp2.1\TojaBot.runtimeconfig.json
-C:\Users\Ostoja\Desktop\TojaBot\TojaBot\bin\Debug\netcoreapp2.1\TojaBot.runtimeconfig.dev.json
-C:\Users\Ostoja\Desktop\TojaBot\TojaBot\bin\Debug\netcoreapp2.1\TojaBot.dll
-C:\Users\Ostoja\Desktop\TojaBot\TojaBot\bin\Debug\netcoreapp2.1\TojaBot.pdb
