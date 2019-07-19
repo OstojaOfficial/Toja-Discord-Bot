@@ -1,10 +1,12 @@
-﻿using System;
+#region using
+using System;
 using System.Reflection;
 using System.Threading.Tasks;
 
 using Discord;
 using Discord.Commands;
 using Discord.WebSocket;
+#endregion
 
 namespace TojaBot
 {
